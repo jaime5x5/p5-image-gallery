@@ -1,0 +1,13 @@
+/* Gallery Styling */
+
+.gallery .th {
+	float: left;
+	margin: 0 20px 10px 0;
+}
+
+.large-6,
+.large-3 {
+	-moz-transition: width .25s .5s;
+	-webkit-transition: width .25s .5s;
+	transition: width .25s .5s;
+}
