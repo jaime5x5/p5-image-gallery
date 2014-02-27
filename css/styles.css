@@ -11,3 +11,19 @@
 	-webkit-transition: width .25s .5s;
 	transition: width .25s .5s;
 }
+
+/* Wireframing Font */
+@font-face {
+    font-family: 'redactedregular';
+    src: url('../font/redacted-regular.eot');
+    src: url('../font/redacted-regular.eot?#iefix') format('embedded-opentype'),
+         url('../font/redacted-regular.woff') format('woff'),
+         url('../font/redacted-regular.ttf') format('truetype'),
+         url('../font/redacted-regular.svg#redactedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p, h3, a {
+	font-family: 'redactedregular';
+}
