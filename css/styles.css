@@ -28,10 +28,33 @@
     max-width: 80rem;
 }
 
-.preview {
+.preview-1 {
     height: 4rem;
-    width: 7.42rem;
-    background:url("http://placehold.it/120x60");
+    width: 7rem;
+    background:url("../img/120x60/vaca-5.png");
+}
+.preview-2 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/gorg-1.png");
+}
+.preview-3 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/slvfc-5.png");
+}
+.preview-4 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/job-5.png");
+}
+.preview-5 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/strt-3.png");
+}
+body {
+    background-color: grey;
 }
 
 /* 
