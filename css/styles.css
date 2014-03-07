@@ -24,6 +24,16 @@
     font-style: normal;
 }
 
+.row {
+    max-width: 80rem;
+}
+
+.preview {
+    height: 4rem;
+    width: 7.42rem;
+    background:url("http://placehold.it/120x60");
+}
+
 /* 
 p, h3, a {
 	font-family: 'redactedregular';
