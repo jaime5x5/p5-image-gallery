@@ -1,15 +1,30 @@
 /* Gallery Styling */
-
+.featuredposts {
+    border: 2px solid #FFF;
+    margin: 20px auto;
+    border-radius: 10px;
+}
 .gallery .th {
 	float: left;
 	margin: 0 20px 10px 0;
 }
-
+.th {
+    border: none;
+}
 .large-6,
 .large-3 {
 	-moz-transition: width .25s .5s;
 	-webkit-transition: width .25s .5s;
 	transition: width .25s .5s;
+}
+
+.button.small {
+/* padding-top: 0.875rem; */
+/* padding-right: 1.75rem; */
+/* padding-bottom: 0.9375rem; */
+/* padding-left: 1.75rem; */
+    font-size: 2rem;
+    background-color: transparent;
 }
 
 /* Wireframing Font */
@@ -51,14 +66,31 @@
 .preview-5 {
     height: 4rem;
     width: 7rem;
+    margin-top: 10px;
     background:url("../img/120x60/strt-3.png");
 }
-body {
-    background-color: grey;
-}
 
-/* 
-p, h3, a {
-	font-family: 'redactedregular';
+body {
+    background: url(../img/overlayBG.png);
+    background-size: cover;
+    background-attachment: scroll;
 }
-*/
+a {
+    color: #C49059;
+    text-decoration: none;
+    line-height: inherit;
+}
+a:hover, a:focus {
+    color: #91D48B;
+}
+p {
+	color: #FAEBD7;
+}
+h1 {
+    color: #C49059;
+    font-family: "reagan",fantasy;
+}
+h3 {
+    color: #C49059;
+    font-family: "reagan",fantasy;
+}

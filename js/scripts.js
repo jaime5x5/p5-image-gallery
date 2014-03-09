@@ -1,5 +1,15 @@
 // Make Foundation Go!
-$(document).foundation();
+$(document).foundation({
+	orbit: {
+	    animation: 'slide',
+	    timer_speed: 5000,
+	    pause_on_hover: false,
+	    animation_speed: 500,
+	    navigation_arrows: true,
+	    bullets: false,
+	    slide_number: false
+  }
+});
 
 // Your Awesome Scripts!
 $(document).ready(function(){
@@ -33,14 +43,7 @@ $(document).ready(function(){
 		 $('.large-6 p').show();
 		 $('.large-6 h3').hide();
 
-	});
-
-	$("#featured").on("ready.fndtn.orbit", function(event) {
-	  console.info("ready");
-	});
-	$("#featured").on("before-slide-change.fndtn.orbit", function(event, orbit) {
-	  console.info("before slide change");
-	});  
+	}); 
 
 	$("#featured").on("after-slide-change.fndtn.orbit", function(event, orbit) {
 	  console.info("after slide change");
