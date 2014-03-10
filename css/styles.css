@@ -87,6 +87,11 @@ p {
 	color: #FAEBD7;
     font-family: "freight-micro-pro",serif;
 }
+.caption p:nth-child(2n+1) {
+    color: #C9A884;
+    font-size:2em;
+    font-family: "reagan",fantasy;
+}
 h1 {
     color: #C49059;
     font-family: "reagan",fantasy;
