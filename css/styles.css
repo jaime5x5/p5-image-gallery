@@ -43,6 +43,7 @@
     max-width: 80rem;
 }
 
+/*****featuredPost*****/
 .preview-1 {
     height: 4rem;
     width: 7rem;
@@ -68,6 +69,169 @@
     width: 7rem;
     margin-top: 10px;
     background:url("../img/120x60/strt-3.png");
+}
+/****beautifulhotels*******/
+
+.preview-vaca-1 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/vaca-1.png");
+}
+.preview-vaca-2 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/vaca-2.png");
+}
+.preview-vaca-3 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/vaca-3.png");
+}
+.preview-vaca-4 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/vaca-4.png");
+}
+.preview-vaca-5 {
+    height: 4rem;
+    width: 7rem;
+    margin-top: 10px;
+    background:url("../img/120x60/vaca-5.png");
+}
+/***sleevefacetrend***/
+.preview-slvfc-1 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/slvfc-1.png");
+}
+.preview-slvfc-2 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/slvfc-2.png");
+}
+.preview-slvfc-3 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/slvfc-3.png");
+}
+.preview-slvfc-4 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/slvfc-4.png");
+}
+.preview-slvfc-5 {
+    height: 4rem;
+    width: 7rem;
+    margin-top: 10px;
+    background:url("../img/120x60/slvfc-5.png");
+}
+/***gorgeouspictures***/
+.preview-gorg-1 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/gorg-1.png");
+}
+.preview-gorg-2 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/gorg-2.png");
+}
+.preview-gorg-3 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/gorg-3.png");
+}
+.preview-gorg-4 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/gorg-4.png");
+}
+.preview-gorg-5 {
+    height: 4rem;
+    width: 7rem;
+    margin-top: 10px;
+    background:url("../img/120x60/gorg-5.png");
+}
+/***uhadonejob***/
+.preview-job-1 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/job-1.png");
+}
+.preview-job-2 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/job-2.png");
+}
+.preview-job-3 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/job-3.png");
+}
+.preview-job-4 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/job-4.png");
+}
+.preview-job-5 {
+    height: 4rem;
+    width: 7rem;
+    margin-top: 10px;
+    background:url("../img/120x60/job-5.png");
+}
+/***streetartists***/
+.preview-strt-1 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/strt-1.png");
+}
+.preview-strt-2 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/strt-2.png");
+}
+.preview-strt-3 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/strt-3.png");
+}
+.preview-strt-4 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/strt-4.png");
+}
+.preview-strt-5 {
+    height: 4rem;
+    width: 7rem;
+    margin-top: 10px;
+    background:url("../img/120x60/strt-5.png");
+}
+/***astonishingfacts***/
+.preview-fact-1 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/fact-1.png");
+}
+.preview-fact-2 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/fact-2.png");
+}
+.preview-fact-3 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/fact-3.png");
+}
+.preview-fact-4 {
+    height: 4rem;
+    width: 7rem;
+    background:url("../img/120x60/fact-4.png");
+}
+.preview-fact-5 {
+    height: 4rem;
+    width: 7rem;
+    margin-top: 10px;
+    background:url("../img/120x60/fact-5.png");
 }
 
 body {
