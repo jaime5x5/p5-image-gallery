@@ -1,8 +1,8 @@
 /* Gallery Styling */
 .featuredposts {
-    border: 2px solid #FFF;
+    /*border: 2px solid #FFF;*/
     margin: 20px auto;
-    border-radius: 10px;
+    /*border-radius: 10px;*/
 }
 .gallery .th {
 	float: left;
